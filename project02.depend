@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660924091 source:c:\users\sueys\onedrive\bureau\project euler\project euler 002\project euler 02\project02\fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+
